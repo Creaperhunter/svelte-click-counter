@@ -1,1 +1,1 @@
-useless shit that i made when i was learning svelte
+useless thing that i made when i was learning svelte
